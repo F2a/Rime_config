@@ -1,0 +1,58 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	57
+#@/user_id	ddbfeeed-5810-4a1f-a0ea-53f7d6afb3fe
+an jian 	按鍵	c=1 d=1 t=38
+an niu 	按鈕	c=1 d=1 t=19
+an zhuang 	安裝	c=1 d=1 t=8
+ba li lv 	巴黎綠	c=1 d=1 t=11
+ban 	半	c=0 d=0.1 t=51
+bao 	寶	c=2 d=1.98511 t=49
+cang ku 	倉庫	c=1 d=1 t=27
+ce bian lan 	側邊欄	c=1 d=1 t=2
+cha kan 	查看	c=1 d=1 t=30
+chang shi 	嘗試	c=0 d=0.1 t=3
+ci ku 	詞庫	c=1 d=1 t=13
+de 	的	c=3 d=2.7136 t=53
+fan yi 	翻譯	c=1 d=1 t=10
+fang shang qu 	放上去	c=1 d=1 t=21
+gai 	該	c=0 d=0.1 t=22
+gai hao le 	該好了	c=1 d=1 t=23
+hao le 	好了	c=0 d=0.1 t=22
+he ni 	和你	c=1 d=1 t=55
+le 	了	c=2 d=1.89583 t=44
+lo 	咯	c=1 d=1 t=51
+mi ma 	密碼	c=2 d=1.99501 t=7
+pei zhi 	配置	c=2 d=1.89137 t=35
+qi ta 	其他	c=0 d=0.1 t=35
+qi ta ruan jian 	其他軟件	c=1 d=1 t=36
+ruan jian 	軟件	c=0 d=0.1 t=35
+shi 	是	c=1 d=1 t=18
+shi hou 	時候	c=1 d=1 t=54
+shou qi 	收起	c=1 d=1 t=1
+shu xu guan 	鼠鬚管	c=3 d=2.82387 t=37
+shuo 	說	c=0 d=0.1 t=55
+shuo yi xia 	說一下	c=1 d=1 t=56
+wei zhi 	位置	c=1 d=1 t=29
+wen an 	文案	c=1 d=1 t=17
+wen jian 	文件	c=2 d=1.96561 t=32
+wo de 	我的	c=1 d=1 t=34
+xi tong 	系統	c=2 d=1.9802 t=9
+xiu gai 	修改	c=1 d=1 t=26
+yi dian 	一點	c=0 d=0.1 t=51
+yi dian ban 	一點半	c=1 d=1 t=52
+yi jing 	已經	c=2 d=1.89583 t=42
+yi xia 	一下	c=0 d=0.1 t=55
+yin cang 	隱藏	c=1 d=1 t=31
+yong 	用	c=2 d=1.99005 t=47
+zang 	髒	c=0 d=0.1 t=3
+zang chang shi 	髒嘗試	c=1 d=1 t=4
+zhe li 	這裏	c=1 d=1 t=14
+zheng que 	正確	c=1 d=1 t=15
+zhi fu 	支付	c=3 d=2.95566 t=50
+zhi hu 	知乎	c=2 d=1.91393 t=57
+zhong wu 	中午	c=1 d=1 t=41
+zi dai 	自帶	c=1 d=1 t=24
+zi ti 	字體	c=1 d=1 t=40

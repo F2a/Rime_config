@@ -1,0 +1,17 @@
+patch:
+  style:
+    color_scheme: dust # 默认皮肤在squirrel.yaml中查看
+    horizontal: true # 水平/竖直显示
+    inline_preedit: true # 內嵌編碼（僅支持TSF）
+    # display_tray_icon: true  # 顯示托盤圖標
+    font_point: 20
+    label_font_point: 14
+    corner_radius: 5
+    border_height: 0
+    border_width: 0
+    # line_spacing: 1
+    # spacing: 5  # space between preedit and candidates in non-inline mode
+    #candidate_format: '%c. %@ '
+    # font_face: 'Lucida Grande'
+    #label_font_face: 'STHeitiTC-Medium'
+    #label_font_point: 18a
