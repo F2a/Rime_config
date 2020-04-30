@@ -23,6 +23,6 @@ patch:
       inline_preedit: true
       label_color: 0xcbcbcb
       label_font_face: SimHei
-      label_font_point: 5
+      label_font_point: 10
       name: "浮尘／Dust"
       text_color: 0x424242

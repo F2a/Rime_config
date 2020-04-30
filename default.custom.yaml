@@ -3,22 +3,25 @@
 patch:
   # 加入智能ABC双拼，因为只用双拼啊所以就不需要其他输入法了，双拼输入法内自带中英文切换
   schema_list:
-    # - schema: luna_pinyin
-    # - schema: cangjie5
-    # - schema: luna_pinyin_fluency
-    - schema: luna_pinyin_simp
-    - schema: luna_pinyin_tw
+  # - schema: terra_pinyin
+  # - schema: emoji
+  - schema: luna_pinyin
+  - schema: luna_pinyin_fluency
+  - schema: luna_pinyin_simp
+  # - schema: bopomofo
+  # - schema: double_pinyin_flypy
+  # - schema: double_pinyin_mspy
 
-  # 每页显示9个
+  # 每页显示6个
   menu/page_size: 6
 
-  # capslock 键切换中英文
+  # capslock 键
   ascii_composer/good_old_caps_lock: true
 
   # 输入法中英文状态快捷键
   ascii_composer/switch_key:
     # 切换中英文并上屏
-    Shift_L: commit_code
+    Shift_L: commit_text
     Caps_Lock: noop
     Control_L: noop
   switcher:
