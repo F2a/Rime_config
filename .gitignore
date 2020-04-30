@@ -1,0 +1,10 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# Rime 自带文件
+/build
+/luna_pinyin.userdb
+
+user.yaml
+installation.yaml
+npm-debug.log*
+.DS_Store

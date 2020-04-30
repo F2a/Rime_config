@@ -1,0 +1,40 @@
+# default.custom.yaml
+# 开头patch表示对默认配置进行补充，类似于继承或者override吧
+patch:
+  # 加入智能ABC双拼，因为只用双拼啊所以就不需要其他输入法了，双拼输入法内自带中英文切换
+  schema_list:
+    # - schema: luna_pinyin
+    # - schema: cangjie5
+    # - schema: luna_pinyin_fluency
+    - schema: luna_pinyin_simp
+    - schema: luna_pinyin_tw
+
+  # 每页显示9个
+  menu/page_size: 6
+
+  # capslock 键切换中英文
+  ascii_composer/good_old_caps_lock: false
+
+  # 输入法中英文状态快捷键
+  ascii_composer/switch_key:
+    # 切换中英文并上屏
+    Caps_Lock: commit_code
+    Control_L: noop
+    Shift_L: noop
+  # 这些不知道是什么东西，别的地方复制过来的就贴上吧反正好像不影响
+  switcher:
+    abbreviate_options: true
+    caption: "〔输入法设置〕"
+    fold_options: true
+    hotkeys:
+      - "Control+equal"
+      - "Control+Shift+equal"
+    option_list_separator: "／"
+    save_options:
+      - full_shape
+      - ascii_punct
+      - simplification
+      - extended_charset
+      - zh_hant
+      - zh_hans
+      - zh_hant_tw
