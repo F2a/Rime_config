@@ -6,14 +6,15 @@ patch:
       author: "Superoutman <asticosmo@gmail.com>"
       back_color: 0xeeffffff
       border_color: 0xE0B693
-      border_height: 1
-      border_width: 2
+      border_height: 0
+      border_width: 1
       candidate_format: "%c %@ "
       candidate_text_color: 0x555555
       comment_text_color: 0x999999
       corner_radius: 0
       font_face: "HYQiHei-55S Book,HanaMinA Regular"
-      font_point: 20
+      font_point: 18
+      line_spacing: 0
       hilited_candidate_back_color: 0xfff0e4
       hilited_candidate_label_color: 0x555555
       hilited_candidate_text_color: 0x000000

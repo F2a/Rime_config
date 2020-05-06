@@ -2,6 +2,7 @@
 
 # Rime 自带文件
 /build
+/plum
 /luna_pinyin.userdb
 
 user.yaml
